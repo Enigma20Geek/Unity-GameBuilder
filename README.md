@@ -34,6 +34,7 @@ As you might have noticed, background has some mountain sprites. It has a parall
 
 ## Other:
 Other than above mentioned assets, there are spikes, water bodies which will also kill our character.<br/>
+There are many ground prefabs which can be joined together to create a ground. <strong>But you will need to enclose the ground with a collider.</strong>
 There are additional bush, stone and tree sprites I have used in my level. They are just for detailing the game more and can be found in Free Assets Folder.<br/><br/>
 
 I hope you like it. Feel free to share your suggestions :))
