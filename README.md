@@ -3,7 +3,7 @@ A simple platformer game builder with preconfigured assets and basic game mechan
 
 In this project you will have preconfigured main character, enemies, coins, etc. which you can directly use to build your own level in a new scene. There is also a sample level you can see for more details. But make sure to run the game from MaineMenu Scene.
 
-# Game Screenshots:
+# Game Screenshots and Character Descriptions:
 ## Main Menu:
 <img src = "ScreenShots/Main Menu.jpg" height=500>
 It is just a random title for the game XD.<br/>
