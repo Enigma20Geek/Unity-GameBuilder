@@ -1,2 +1,2 @@
 # Unity-GameBuilder
-A simple platformer game builder with preconfigured assets for easier level design and basic game mechanics.
+A simple platformer game builder with preconfigured assets and basic game mechanics for easier level design.
