@@ -21,13 +21,13 @@ There are different sound effects and 5 different animations for this character 
 
 ## Skeleton Zombie:
 <img src = "ScreenShots/Skeleton.jpg" height=500>
-This is the enemy in the game. It will die if main character jumped on its head. It will kill main chracter on contact.<br/>
+This is the enemy in the game. It will die if main character jumped on its head. It will kill main chracter on contact with any other part of the body.<br/>
 <strong>The best thing about this is it will roam on the platform it has been placed on covering it completely. It is controlled by a basic AI Script. You don't need to provide any other information about the length of the plank or anything like that. Just place it on top of a hanging platform and it will start patroling it.</strong><br/>
 There are different sound effects and 2 different animations for this character Walk, Die.
 
 ## Coins:
 <img src = "ScreenShots/Coins.jpg" height=500>
-These are coins which our main chracter can collect while avoiding or killing zombies. To collect, character just needs to touch a coin and it will fly towards the top right corner of the screen increasing the score by 1. There is a nice collect sound effect and spinning animation for the coins.
+These are coins which our main character can collect while avoiding or killing zombies. To collect, character just needs to touch a coin and it will fly towards the top right corner of the screen increasing the score by 1. There is a nice collect sound effect and spinning animation for the coins.
 
 ## Parallax Background:
 As you might have noticed, background has some mountain sprites. It has a parallax effect which will be apparent when you play the game.
